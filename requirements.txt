@@ -1,7 +1,7 @@
-streamlit
-pandas
-matplotlib
-seaborn
-requests
-openpyxl
-beautifulsoup4
+streamlit 
+beautifulsoup4 
+requests 
+pandas 
+numpy 
+scipy 
+scikit-learn 
